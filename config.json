@@ -1,6 +1,6 @@
 {
   "routes": [
-    { "path": "surprise", "component": "CatComponent"}
+    { "path": "surprise", "component": "DogComponent"}
   ],
   "frontPage": {
     "html": "I love the #DevFest18 <img src ='https://image.flaticon.com/icons/svg/184/184514.svg' width='200px'>",
